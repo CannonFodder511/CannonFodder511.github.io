@@ -17,6 +17,16 @@ body{
     align-self: center;
 }
 
+.photo{
+    border-color: #000000;
+    border-style: solid;
+    margin-left: 3em;
+    border-radius: 2em;
+    padding: 1em;
+    background-color: rgb(130, 130, 130);
+    float: right;
+}
+
 .navbar{
     background-color: #282828;
     text-align: center;
